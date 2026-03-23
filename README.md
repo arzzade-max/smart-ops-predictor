@@ -20,7 +20,8 @@ ML model predicts SLA risk and suggests actions in real-time.
 Data → Model → API → Dashboard
 
 ## 📸 Screenshots
-(Add dashboard screenshot here)
+ <img width="1643" height="1119" alt="image" src="https://github.com/user-attachments/assets/781c722a-6f6b-4578-a327-a2ecb89dd4fc" />
+
 
 ## 🎥 Demo
 (Add video link here)
